@@ -1,12 +1,16 @@
 // mod print;
 // mod vars;
 // mod types;
-mod loops;
+// mod loops;
+// mod function;
+mod pointer;
 
 fn main() {
     // println!("Hello, world!");
     // print::run();
     // vars::run();
     // types::run();
-    loops::run();
+    // loops::run();
+    // function::run();
+    pointer::run();
 }
