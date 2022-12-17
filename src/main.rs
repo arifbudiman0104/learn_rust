@@ -3,7 +3,8 @@
 // mod types;
 // mod loops;
 // mod function;
-mod pointer;
+// mod pointer;
+mod structs;
 
 fn main() {
     // println!("Hello, world!");
@@ -12,5 +13,6 @@ fn main() {
     // types::run();
     // loops::run();
     // function::run();
-    pointer::run();
+    // pointer::run();
+    structs::run();
 }
