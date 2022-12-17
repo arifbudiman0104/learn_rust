@@ -5,7 +5,8 @@
 // mod function;
 // mod pointer;
 // mod structs;
-mod enums;
+// mod enums;
+mod cli;
 
 fn main() {
     // println!("Hello, world!");
@@ -16,5 +17,6 @@ fn main() {
     // function::run();
     // pointer::run();
     // structs::run();
-    enums::run();
+    // enums::run();
+    cli::run();
 }
