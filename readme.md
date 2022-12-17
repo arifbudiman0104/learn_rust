@@ -1,3 +1,6 @@
+# Source
+This is a Rust Crash Course from [Traversy Media](https://www.youtube.com/watch?v=zF34dRivLOw)
+
 # Rust Installlation
 [Rust Playground](https://play.rust-lang.org/)
 
