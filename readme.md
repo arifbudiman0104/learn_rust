@@ -44,3 +44,6 @@ cargo run
 //project build
 cargo build
 ````
+
+## VSCode Extension
+[Rust Extension Pack](https://marketplace.visualstudio.com/items?itemName=swellaby.rust-pack)
